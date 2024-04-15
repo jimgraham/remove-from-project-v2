@@ -4,6 +4,8 @@ An action to remove an issue from a V2 project board.
 
 This is based directly on [Remove from project (classic)](https://github.com/joshmgross/remove-from-project-classic). Reworked based on MIT license.
 
+**UPDATE** Removed this folk and mirrored this in [`remove-from-projectV2`](https://github.com/jimgraham/remove-from-projectV2)
+
 ## Inputs
 
 - `issue-number` - The number of the issue or pull request to remove
